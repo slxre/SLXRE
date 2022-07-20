@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**slxre/SLXRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Welcome there 👋 I'm SLxRE
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning ... python & programming fundamentals.
+- 👯 I’m looking to collaborate on ...open source projects & HvCKWEiSSR community.
+- 🤔 I’m looking for help with ...fundamentals and general mentoriing.
+- 💬 Ask me about ...The HvCKWEiSSR community.
+- 📫 How to reach me: ...slxre@pm.me
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...i have 279 phone cases.
+
+while (!(succeed = try()));
